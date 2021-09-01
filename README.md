@@ -1,4 +1,4 @@
-### Hello world :)
+### Olá :)
  🌱 I’m currently learning to code
 <img src="https://github.com/domuserk/domuserk/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
