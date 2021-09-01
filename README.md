@@ -1,6 +1,6 @@
 ### Hello world :)
  🌱 I’m currently learning to code
-
+<img src="https://github.com/domuserk/domuserk/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
 <!--
 **joaovmp/joaovmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
