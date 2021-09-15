@@ -2,7 +2,7 @@
  🌱 I’m currently learning to code
 <img src="https://github.com/domuserk/domuserk/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmp)](https://github.com/joaovmp/github-readme-stats)
 
 <h2>
 
