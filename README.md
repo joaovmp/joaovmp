@@ -1,5 +1,8 @@
-### Olá :)
+<h1 align="left">Hello world!, just dived into the world of coding.</h1>
+
+
  🌱 I’m currently learning everything.
+ <br>
  ⚡ Fun fact: Sometimes I do play guitar :)
 
 
