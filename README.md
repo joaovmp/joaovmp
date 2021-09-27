@@ -2,10 +2,9 @@
  🌱 I’m currently learning everything.
  ⚡ Fun fact: Sometimes I do play guitar :)
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" target="_blank"> <href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="javascript" width="50" height="50"/> 
-</a>
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<p>
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 </p>
 
