@@ -5,11 +5,18 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" target="_blank"> <href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="javascript" width="50" height="50"/> 
 </a>
 
-<a><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></a>
- 
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+</p>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&show_icons=true&locale=en&layout=compact" alt="joaovmp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>
 
 
 
