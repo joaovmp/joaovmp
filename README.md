@@ -2,6 +2,10 @@
  🌱 I’m currently learning everything.
  ⚡ Fun fact: Sometimes I do play guitar :)
 
+
+
+<a><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></a>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&show_icons=true&locale=en&layout=compact" alt="joaovmp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>
