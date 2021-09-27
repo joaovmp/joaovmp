@@ -4,7 +4,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmp)](https://github.com/joaovmp/github-readme-stats)
 <h2>
-<imgsrc="https://camo.githubusercontent.com/e5951657fea2e2514c698c2a91150af210fc80f79f4e27a18821ff8c75fce796/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f616f766d70" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmp" style="max-width: 100%;">
+[<imgsrc="https://camo.githubusercontent.com/e5951657fea2e2514c698c2a91150af210fc80f79f4e27a18821ff8c75fce796/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f616f766d70" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmp" style="max-width: 100%;">]
  
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/joão-victor-moreira-66535837)
 </h2>
