@@ -4,7 +4,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&show_icons=true&locale=en&layout=compact" alt="joaovmp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmp&" alt="joaovmp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>
+
+
+
+<!-- STREAKS SCORE  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmp&" alt="joaovmp" /></p>
 <!--
 **joaovmp/joaovmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
