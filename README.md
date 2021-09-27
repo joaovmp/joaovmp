@@ -30,6 +30,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>
 
 
+<h2>&nbsp</h2>
+<h2>&nbsp</h2>
 
 <!-- STREAKS SCORE  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmp&" alt="joaovmp" /></p>
 <!--
