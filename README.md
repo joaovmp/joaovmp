@@ -1,11 +1,9 @@
 ### Olá :)
  🌱 I’m currently learning to code
-<img src="https://github.com/domuserk/domuserk/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmp)](https://github.com/joaovmp/github-readme-stats)
-
 <h2>
-
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/joão-victor-moreira-66535837)
 </h2>
