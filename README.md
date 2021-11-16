@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello world!, just dived into the world of coding.</h1>
+<h1 align="center">Just dived into the world of coding.</h1>
 
 
  🌱 I’m currently learning everything.
