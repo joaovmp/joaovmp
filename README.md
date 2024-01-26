@@ -1,5 +1,9 @@
 
-<h1 align="center">Just dived into the world of coding.</h1>
+<h1 align="center"># 👋 Olá, eu sou Joao Pinto
+
+## 💻 Desenvolvedor Front-End
+
+Sou apaixonado por criar interfaces incríveis e proporcionar experiências de usuário excepcionais. Minha jornada no desenvolvimento web inclui trabalhar com as seguintes tecnologias e ferramentas:</h1>
 
 
  🌱 I’m currently learning everything.
