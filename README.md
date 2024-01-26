@@ -1,41 +1,10 @@
-<style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #1a1b27;
-            color: #d4d4d4;
-            margin: 0;
-            padding: 20px;
-        }
+<h1> 👋 Olá, eu sou Joao Pinto</h1>
 
-        h1 {
-            color: #9580ff;
-        }
+<p>Sou um apaixonado desenvolvedor de software, especializado em tecnologias web. Minha jornada inclui projetos incríveis em Front-End, Back-End e além. Sempre em busca de aprender e compartilhar conhecimento.</p>
 
-        p {
-            font-size: 16px;
-            line-height: 1.6;
-        }
+<p>Atualmente, estou explorando novas oportunidades e contribuindo para a comunidade open source. Se quiser saber mais sobre mim, confira meu <a href="link_para_o_seu_portfolio" target="_blank">portfolio</a> ou conecte-se comigo no <a href="link_para_o_seu_linkedin" target="_blank">LinkedIn</a>.</p>
 
-        a {
-            color: #9580ff;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        a:hover {
-            color: #b394ff;
-        }
-    </style>
-</head>
-
-
-    <h1>👋 Olá, eu sou [Seu Nome]</h1>
-
-    <p>Sou um apaixonado desenvolvedor de software, especializado em tecnologias web. Minha jornada inclui projetos incríveis em Front-End, Back-End e além. Sempre em busca de aprender e compartilhar conhecimento.</p>
-
-    <p>Atualmente, estou explorando novas oportunidades e contribuindo para a comunidade open source. Se quiser saber mais sobre mim, confira meu <a href="link_para_o_seu_portfolio" target="_blank">portfolio</a> ou conecte-se comigo no <a href="link_para_o_seu_linkedin" target="_blank">LinkedIn</a>.</p>
-
-    <p>🚀 Vamos codificar algo incrível juntos!</p>
+<p>🚀 Vamos codificar algo incrível juntos!</p>
 
 <p>
  
