@@ -32,7 +32,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>-->
 
 
 <h2>&nbsp</h2>
