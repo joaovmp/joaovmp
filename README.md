@@ -1,4 +1,4 @@
-<h1> 👋 Olá, eu sou Joao Pinto</h1>
+# Olá, eu sou Joao 👋
 
 <p>Sou um apaixonado desenvolvedor de software, especializado em Frontend. Minha jornada inclui projetos incríveis em Front-End, Back-End e além. Sempre em busca de aprender e compartilhar conhecimento.</p>
 
@@ -17,7 +17,7 @@
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
+ <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 
 
 
