@@ -2,7 +2,7 @@
 
 <p>Sou um apaixonado desenvolvedor de software, especializado em Frontend. Minha jornada inclui projetos incríveis em Front-End, Back-End e além. Sempre em busca de aprender e compartilhar conhecimento.</p>
 
-<p>Atualmente, estou explorando novas oportunidades e contribuindo para a comunidade open source. Se quiser saber mais sobre mim, conecte-se comigo no <a href="www.linkedin.com/in/joaovictormp" target="_blank">LinkedIn</a>.</p>
+<p>Atualmente, estou explorando novas oportunidades e contribuindo para a comunidade open source. Se quiser saber mais sobre mim, conecte-se comigo no <a href="https://www.linkedin.com/in/joaovictormp" target="_blank">LinkedIn</a>.</p>
 
 <p>🚀 Vamos codificar algo incrível juntos!</p>
 
