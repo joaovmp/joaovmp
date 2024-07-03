@@ -28,8 +28,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&show_icons=true&locale=en&layout=compact" alt="joaovmp" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&show_icons=true&locale=en&layout=compact" alt="joaovmp" />
+![Joao`s GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+</p>
 
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&show_icons=true&locale=en" alt="joaovmp" /></p>-->
