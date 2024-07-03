@@ -28,8 +28,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&show_icons=true&locale=en&layout=compact" alt="joaovmp" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true")
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&theme=dark&show_icons=true&locale=en" alt="joaovmp" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&theme=dark&show_icons=true")
 </p>
 
 
