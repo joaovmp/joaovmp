@@ -29,7 +29,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&theme=dark&show_icons=true&locale=en&layout=compact" alt="joaovmp" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&theme=dark&show_icons=true&layout=compact")
+   <img style="margin-left:20px;"align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&theme=dark&show_icons=true&layout=compact")
 </p>
 
 
