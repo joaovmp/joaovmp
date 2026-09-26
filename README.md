@@ -24,12 +24,7 @@ On the side, I ship full-stack projects and contribute where I can.
 **Infra & tooling**
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
----
-
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&theme=dark&show_icons=true&layout=compact" alt="joaovmp" />
-</p>
 
 ---
 
-Open to collaborating on something worth building. Find me on [LinkedIn](https://www.linkedin.com/in/joaovictormp).
+Open to collaborating on something worth building. Find me on [LinkedIn](https://www.linkedin.com/in/joaovmpinto/).
