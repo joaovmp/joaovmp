@@ -1,8 +1,8 @@
 # Hi, I'm João 👋
 
-I build scalable frontend systems — micro-frontend architectures, design system foundations, and the kind of Angular infrastructure that teams rely on without thinking about it. Seven years in, and I still care about the details.
+I build scalable frontend systems - micro-frontend architectures, design system foundations, and the kind of Angular infrastructure that teams rely on without thinking about it. Seven years in, and I still care about the details.
 
-On the side, I ship full-stack projects and contribute where I can.
+On the side, I contribute where I can.
 
 ---
 
