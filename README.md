@@ -26,11 +26,7 @@ On the side, I ship full-stack projects and contribute where I can.
 
 ---
 
-## Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovmp&theme=dark&show_icons=true&locale=en&layout=compact" alt="joaovmp" />
-  &nbsp;&nbsp;
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovmp&theme=dark&show_icons=true&layout=compact" alt="joaovmp" />
 </p>
 
