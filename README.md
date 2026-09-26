@@ -1,8 +1,8 @@
 # Hi, I'm João 👋
 
-I build scalable frontend systems - micro-frontend architectures, design system foundations, and the kind of Angular infrastructure that teams rely on without thinking about it. Seven years in, and I still care about the details.
+I build scalable frontend systems - micro-frontend and micro-services architectures, design system foundations, and the kind of Angular infrastructure that teams rely on without thinking about it. Seven years in, and I still care about the details.
 
-On the side, I contribute where I can.
+On the side, I ship full-stack projects and contribute where I can.
 
 ---
 
@@ -23,8 +23,15 @@ On the side, I contribute where I can.
 
 **Infra & tooling**
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**CI/CD & quality**
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
 ---
 
-Open to collaborating on something worth building. Find me on [LinkedIn](https://www.linkedin.com/in/joaovmpinto/).
+Open to collaborating on something worth building. Find me on [LinkedIn](https://www.linkedin.com/in/joaovictormp).
